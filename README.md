@@ -2,8 +2,6 @@
 
 This repository provides a comprehensive roadmap for learning React, covering the essential concepts and tools needed to become proficient in React development.
 
-![React Roadmap](https://github.com/TIRTH0409/react-roadmap/blob/main/react-image.png?raw=true)
-
 ## Table of Contents
 
 1. [The Basics](#the-basics)
@@ -15,12 +13,6 @@ This repository provides a comprehensive roadmap for learning React, covering th
 7. [Git & GitHub](#git-github)
 8. [Testing](#testing)
 9. [Resources](#resources)
-
-## Download the Roadmap Image
-
-<a href="https://github.com/TIRTH0409/react-roadmap/blob/main/react-image.png?raw=true" download>
-  <img src="https://img.shields.io/badge/Download%20Roadmap-React%20Roadmap-green?style=for-the-badge&logo=download" alt="Download React Roadmap">
-</a>
 
 ## The Basics
 
@@ -74,7 +66,14 @@ This repository provides a comprehensive roadmap for learning React, covering th
 
 ## Testing
 
+- test
 - Vitest
+
+## Download the Roadmap Image
+
+<a href="https://github.com/TIRTH0409/react-roadmap/blob/main/react-image.png?raw=true" download>
+  <img src="https://img.shields.io/badge/Download%20Roadmap-React%20Roadmap-green?style=for-the-badge&logo=download" alt="Download React Roadmap">
+</a>
 
 ## Resources
 

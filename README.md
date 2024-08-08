@@ -72,7 +72,6 @@ This repository provides a comprehensive roadmap for learning React, covering th
 ## Download the Roadmap Image
 
 <a href="https://github.com/TIRTH0409/react-roadmap/blob/main/react-image.png?raw=true" download>
-  <img src="https://img.shields.io/badge/Download%20Roadmap-React%20Roadmap-green?style=for-the-badge&logo=download" alt="Download React Roadmap">
 </a>
 
 ## Resources

@@ -2,7 +2,7 @@
 
 This repository provides a comprehensive roadmap for learning React, covering the essential concepts and tools needed to become proficient in React development.
 
-![React Roadmap](./react-image.png)
+![React Roadmap](https://github.com/TIRTH0409/react-roadmap/blob/main/react-image.png?raw=true)
 
 ## Table of Contents
 
